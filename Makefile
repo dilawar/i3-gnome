@@ -17,6 +17,7 @@ PATH_I3_GNOME_XSESSION = $(PREFIX)/share/xsessions/i3-gnome.desktop
 
 all:
 	@echo "Nothing to do"
+	@echo "Run `make install` to install this app."
 
 
 install:
