@@ -1,3 +1,4 @@
 #!/bin/sh
 
-sudo apt-get install coreutils make
+# sudo apt-get install coreutils make
+sudo zypper install coreutils make
